@@ -50,8 +50,7 @@ Create an Excel workbook for the output and define the output headers.
 Define a function to analyze text and calculate various text metrics.
 Iterate through the URLs, analyze the content, and store the results in the output Excel file.
 Handle errors when retrieving URLs and continue the analysis for other URLs.
+
 Results
 After running the code, you will have an Excel file (Output Data Structure.xlsx) containing the results of text analysis and sentiment scoring for the provided URLs. The file will include various metrics and scores for each URL.
 
-License
-This code is provided under the MIT License. You are free to use, modify, and distribute it as needed. Please review the LICENSE file in this repository for more details.
